@@ -1,0 +1,13 @@
+clase,caracteristica,media_mu,desviacion_estandar_sigma
+Iris-setosa,sepal_length,5.006,0.35248968721345136
+Iris-setosa,sepal_width,3.418,0.38102439795469095
+Iris-setosa,petal_length,1.464,0.17351115943644546
+Iris-setosa,petal_width,0.244,0.1072095030816784
+Iris-versicolor,sepal_length,5.936,0.5161711470638634
+Iris-versicolor,sepal_width,2.7700000000000005,0.3137983233784114
+Iris-versicolor,petal_length,4.26,0.46991097723995795
+Iris-versicolor,petal_width,1.3259999999999998,0.19775268000454405
+Iris-virginica,sepal_length,6.587999999999998,0.6358795932744322
+Iris-virginica,sepal_width,2.974,0.32249663817263746
+Iris-virginica,petal_length,5.5520000000000005,0.5518946956639834
+Iris-virginica,petal_width,2.0260000000000002,0.2746500556366674

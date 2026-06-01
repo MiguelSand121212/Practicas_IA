@@ -1,0 +1,1 @@
+"""Paquete principal de la Práctica 5: Clasificador Naive Bayes Gaussiano."""

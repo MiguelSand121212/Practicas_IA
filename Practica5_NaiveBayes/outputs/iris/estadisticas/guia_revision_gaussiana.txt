@@ -1,0 +1,10 @@
+GUÍA DE REVISIÓN VISUAL DEL AJUSTE GAUSSIANO — IRIS
+
+Revisa cada imagen de la carpeta kde/.
+
+Interpretación sugerida:
+- Si la curva KDE continua se parece a la curva Gaussiana punteada, la suposición normal es razonable para esa característica y clase.
+- Si la KDE presenta fuerte asimetría, varios picos o una forma muy distinta a la curva punteada, la suposición Gaussiana es menos adecuada.
+
+Texto base para el reporte:
+Se compararon las curvas KDE observadas contra distribuciones Gaussianas estimadas mediante la media y desviación estándar de cada característica dentro de cada clase. Las variables cuyas curvas presentan formas semejantes muestran un ajuste normal razonable, mientras que las diferencias marcadas evidencian limitaciones de la suposición Gaussiana.

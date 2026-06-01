@@ -1,0 +1,5 @@
+clase,caracteristica_1,caracteristica_2,correlacion,correlacion_absoluta,interpretacion
+Iris-virginica,sepal_length,petal_length,0.8642247329355763,0.8642247329355763,Correlación fuerte: posible incumplimiento de la independencia condicional.
+Iris-versicolor,petal_length,petal_width,0.786668088522817,0.786668088522817,Correlación fuerte: posible incumplimiento de la independencia condicional.
+Iris-versicolor,sepal_length,petal_length,0.754048958592016,0.754048958592016,Correlación fuerte: posible incumplimiento de la independencia condicional.
+Iris-setosa,sepal_length,sepal_width,0.7467803732639264,0.7467803732639264,Correlación fuerte: posible incumplimiento de la independencia condicional.

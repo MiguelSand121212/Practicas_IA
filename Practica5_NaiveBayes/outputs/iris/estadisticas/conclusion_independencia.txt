@@ -1,0 +1,5 @@
+ANÁLISIS DE INDEPENDENCIA — DATASET IRIS
+
+Se identificaron 4 pares de características con correlación absoluta mayor o igual a 0.70 dentro de alguna clase. Esto indica que la suposición de independencia condicional de Naive Bayes no se cumple completamente para todos los atributos.
+
+Aun cuando existan correlaciones, el clasificador Naive Bayes puede conservar un buen desempeño predictivo, lo cual debe verificarse mediante Hold-Out, 10-Fold Cross-Validation y Leave-One-Out.

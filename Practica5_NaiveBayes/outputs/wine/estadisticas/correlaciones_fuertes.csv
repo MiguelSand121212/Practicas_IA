@@ -1,0 +1,5 @@
+clase,caracteristica_1,caracteristica_2,correlacion,correlacion_absoluta,interpretacion
+Clase 1,total_phenols,flavanoids,0.803784391269304,0.803784391269304,Correlación fuerte: posible incumplimiento de la independencia condicional.
+Clase 2,total_phenols,flavanoids,0.7709992566734872,0.7709992566734872,Correlación fuerte: posible incumplimiento de la independencia condicional.
+Clase 3,ash,alcalinity_of_ash,0.7585177494004499,0.7585177494004499,Correlación fuerte: posible incumplimiento de la independencia condicional.
+Clase 1,flavanoids,color_intensity,0.7415604356055916,0.7415604356055916,Correlación fuerte: posible incumplimiento de la independencia condicional.
